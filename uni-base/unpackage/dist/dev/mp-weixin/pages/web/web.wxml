@@ -1,0 +1,1 @@
+<view class="data-v-aed5e5a0"><web-view src="{{url}}" data-event-opts="{{[['load',[['onWeb',['$event']]]]]}}" bindload="__e" class="data-v-aed5e5a0"></web-view><block wx:if="{{isShow}}"><cover-view class="all data-v-aed5e5a0"></cover-view></block></view>

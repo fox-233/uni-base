@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/demo/demo",
+    "pages/web/web"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "模板",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#00cb71",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/demo/demo",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/web/web",
+        "text": "web"
+      }
+    ]
+  },
+  "usingComponents": {
+    "hx-navbar": "/components/hx-navbar/hx-navbar"
+  }
+}

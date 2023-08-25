@@ -1,0 +1,10 @@
+.all.data-v-aed5e5a0 {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  background: #000;
+  z-index: 99999999999999;
+}
+
